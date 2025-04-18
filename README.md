@@ -1,204 +1,160 @@
-# Quiz-AWS_Restart
+# Quiz AWS Restart
 
-<img src="social-image_restart_v2.png" alt="Logo Restart" width="500" height="200">
+![Logo Restart](social-image_restart_v2.png)
 
-#### Ajudar nos estudos para o simulado e exame da AWS
+> **Objetivo:** Ajudar nos estudos para o simulado e exame da AWS.
 
-##### Preparados??
+---
 
-Obs: leam a questão, pensam na resposta e depois ver se aceitaram ou não.
+## 📌 Instruções
 
-Valendo!!
+**Leiam a questão, pensem na resposta e só depois confiram o gabarito.**  
+Vamos ver como você se sai? **Valendo!** 🎯
 
-1. Qual serviço da AWS oferece um banco de dados altamente escalável e totalmente gerenciado?
+---
 
-A-Amazon S3
+## 🧠 Quiz
 
-B-AWS Lambda
+### 1. Qual serviço da AWS oferece um banco de dados altamente escalável e totalmente gerenciado?
 
-C-Amazon Elastic Compute Cloud (EC2)
+- **A)** Amazon S3
+- **B)** AWS Lambda
+- **C)** Amazon Elastic Compute Cloud (EC2)
+- **D)** ✅ Amazon RDS
+- **E)** Amazon Elastic File System (EFS)
 
-D-Amazon RDS
+---
 
-E-Amazon Elastic File System (EFS)
+### 2. Qual é o propósito principal do Amazon Elastic Compute Cloud (EC2)?
 
-Resposta: D-Amazon RDS
+- **A)** Armazenar e recuperar dados
+- **B)** Identificar ameaças de segurança
+- **C)** Gerenciar redes virtuais
+- **D)** ✅ Oferecer recursos computacionais altamente escaláveis
+- **E)** Gerenciar instâncias de bancos de dados
 
-2. Qual propósito principal do Amazon Elastic Compute Cloud (EC2)?
+---
 
-A-Armazenar e recuperar dados
+### 3. Qual o propósito do AWS Identity and Access Management (IAM)?
 
-B-Identificar ameaças de segurança
+- **A)** Gerenciar máquinas virtuais
+- **B)** Monitorar performance das aplicações
+- **C)** Escalar instâncias de bancos de dados
+- **D)** ✅ Controlar o acesso aos recursos da AWS
+- **E)** Gerenciar DNS
 
-C-Gerenciar redes virtuais
+---
 
-D-Oferecer recursos computacionais altamente escaláveis
+### 4. Qual serviço da AWS pode ser usado para distribuir conteúdos globalmente e acelerar a performance de websites?
 
-E-Gerenciar Instancias de bancos de dados
+- **A)** ✅ Amazon CloudFront
+- **B)** Amazon Route 53
+- **C)** Amazon S3
+- **D)** AWS Beanstalk
+- **E)** AWS Lambda
 
-Resposta: D-Oferecer recursos computacionais altamente escaláveis
+---
 
-3. Qual o propósito do AWS Identity and Access Management (IAM)?
+### 5. O que o serviço AWS Lambda oferece?
 
-A-Gerenciar máquinas virtuais
+- **A)** Armazenamento de objetos
+- **B)** Gerenciamento de bancos de dados
+- **C)** Recursos computacionais
+- **D)** ✅ Execução de funções sem servidor
+- **E)** Gerenciamento de DNS
 
-B-Monitorar performance das aplicações
+---
 
-C-Escalar instancias de bancos de dados
+### 6. Quais são os benefícios de usar um banco de dados gerenciado na AWS?
 
-D-Controlar o acesso aos recursos da AWS
+- **A)** Redução de custos
+- **B)** Eliminação de tarefas operacionais
+- **C)** Escalabilidade automática
+- **D)** Segurança aprimorada
+- **E)** ✅ Todas as opções anteriores
 
-E-Gerenciar DNS
+---
 
-Resposta: D-Controlar o acesso aos recursos da AWS
+### 7. Qual serviço da AWS oferece um banco de dados gerenciado compatível com Redis e Memcached?
 
-4. Qual serviço da AWS pode ser usado para distribuir conteúdos globalmente e acelerar a performance de websites?
+- **A)** Amazon RDS
+- **B)** ✅ Amazon ElastiCache
+- **C)** Amazon Neptune
+- **D)** Amazon DynamoDB
+- **E)** Amazon Redshift
 
-A-Amazon CloudFront
+---
 
-B-Amazon Route 53
+### 8. Quais tarefas de segurança são responsabilidade do cliente no modelo de responsabilidade compartilhada da AWS? _(Escolha DUAS)_
 
-C-Amazon Simple Storage Service (AWS S3)
+- ✅ **A)** Garantir que os usuários informem um ID de usuário e senha antes de usar um aplicativo
+- **B)** Assegurar o prédio físico onde os servidores estão operando
+- ✅ **C)** Criptografar dados sensíveis da aplicação armazenados no Amazon S3
+- **D)** Aplicar atualizações de segurança no Amazon DynamoDB
+- **E)** Configurar a segurança nos roteadores da zona de disponibilidade
 
-D-AWS Beantstalk
+---
 
-E-AWS Lambda
+### 9. Quando ocorre uma falha do sistema em uma instância EC2, a AMI pode ser usada para iniciar um servidor substituto?
 
-Resposta: A-Amazon CloudFront
+- **A)** ✅ Verdadeiro
+- **B)** Falso
 
-5. O que o serviço AWS Lambda oferece?
+---
 
-A-Armazenamento de objetos
+### 10. A instância EC2 de produção está lenta. Qual a melhor solução?
 
-B-Gerenciamento de bancos de dados
+- **A)** Aumentar o intervalo de IPs da VPC
+- **B)** Reescrever o aplicativo
+- **C)** ✅ Alterar o tipo da instância para um tamanho maior
+- **D)** Pedir à AWS para aumentar a taxa de transferência da VPC
 
-C-Recursos computacionais
+---
 
-D-Execução de funções sem servidor
+### 11. Quais categorias de serviços AWS são fornecidas gratuitamente? _(Escolha DUAS)_
 
-E-Gerenciamento de DNS
+- **A)** Serviços de Computação
+- ✅ **B)** Transferência de dados de entrada
+- **C)** Transferência de dados de saída
+- ✅ **D)** Transferência entre serviços na mesma região
+- **E)** Serviços de Armazenamento
 
-Resposta: D-Execução de funções sem servidor
+---
 
-6. 6. Quais são os benefícios de usar um banco de dados gerenciado na AWS?
+### 12. Qual é o modelo de nuvem onde os clientes gerenciam os servidores virtuais e software?
 
-A-Redução de custos
+- ✅ **A)** Infrastructure as a Service (IaaS)
+- **B)** Platform as a Service (PaaS)
+- **C)** Software as a Service (SaaS)
 
-B-Eliminação de tarefas operacionais
+---
 
-C-Escalabilidade automática
+### 13. Qual serviço da AWS é usado para automatizar o provisionamento de infraestrutura?
 
-D-Segurança aprimorada
+- **A)** AWS CLI
+- **B)** AWS SDKs
+- **C)** AWS Beanstalk
+- **D)** AWS Lightsail
+- ✅ **E)** AWS CloudFormation
 
-E-Todas as opções anteriores
+---
 
-Resposta: E-Todas as opções anteriores
+### 14. Qual ferramenta ajuda empresas a avaliarem prontidão para a nuvem AWS?
 
-7. Qual serviço da AWS oferece um banco de dados gerenciado que é compatível com Redis e Memcached?
+- **A)** AWS Well-Architected Tool
+- **B)** AWS Managed Services
+- ✅ **C)** AWS Cloud Adoption Framework (CAF)
+- **D)** AWS Migration Hub
+- **E)** AWS Database Migration Service
 
-A-Amazon Relational Database Service (RDS)
+---
 
-B-Amazon ElastiCache
+## ✅ Finalização
 
-C-Amazon Neptune
+Espero que tenha sido útil!  
+Se curtiu, deixe uma ⭐ no repositório e compartilhe com os colegas de estudo.  
+Em breve, mais quizzes por aqui. 😉
 
-D-Amazon DynamoDB
+**Obrigada por participarem!**
 
-E-Amazon Redshift
-
-Resposta: B-Amazon ElastiCache
-
-8. 8. Quais tarefas de segurança são responsabilidade do cliente no modelo de responsabilidade compartilhada da AWS? (Selecione DUAS.)
-
-A-Garantir que os usuários informem um ID de usuário e senha antes de usar um aplicativo.
-
-B-Assegurar o prédio físico onde os servidores estão operando.
-
-C- Criptografar dados sensíveis da aplicação armazenados no Amazon S3.
-
-D-Aplicar atualizações de segurança do sistema operacional nos servidores que executam o Amazon DynamoDB.
-
-E-Configurar a segurança nos roteadores que residem em uma Zona de Disponibilidade
-
-Resposta: A-Garantir que os usuários informem um ID de usuário e senha antes de usar um aplicativo e C-Criptografar dados sensíveis da aplicação armazenados no Amazon S3.
-
-9. Ocorre uma falha no sistema em uma instância do Amazon Elastic Compute Cloud (Amazon EC2). Lembre-se de que, para instâncias do EC2, o sistema operacional e outros softwares podem ser contidos separadamente em uma Imagem de Máquina Amazon (AMI).
-
-Verdadeiro ou Falso: Quando ocorre uma falha do sistema em uma instância do Amazon Elastic Compute Cloud (Amazon EC2), a AMI pode ser usada para automatizar o processo de iniciar um servidor de substituição.
-
-A-Verdadeiro.
-
-B-Falso.
-
-Resposta: A-Verdadeiro.
-
-10. Um administrador de sistemas cria uma instância de produção do EC2 para um novo aplicativo. Após a instância rodar por um dia, o desenvolvedor informa ao administrador de sistemas que o sistema está rodando muito lentamente. O administrador de sistemas verifica a instância e percebe que o servidor não parece ser poderoso o suficiente.
-
-Qual a melhor solução a ser tentada?
-
-A-Aumentar o intervalo de endereços IP da virtual private cloud (VPC) da instância.
-
-B-Pedir ao desenvolvedor que reescreva o aplicativo para usar menos recursos.
-
-C-Alterar o tipo da instância para um tamanho maior
-
-D-Pedir para a AWS aumentar a taxa de transferência de rede na VPC.
-
-Resposta: C-Alterar o tipo da instância para um tamanho maior.
-
-11. Quais categorias de serviços AWS são fornecidas gratuitamente? (Selecione DUAS.)?
-
-A-Serviços de Computação
-
-B-Transferência de dados de entrada
-
-C-Transferência de dados de saída
-
-D-Transferência de dados entre serviços dentro da mesma Região
-
-E-Serviços de Armazenamento
-
-Resposta: B-Transferência de dados de entrada e D-Transferência de dados entre serviços dentro da mesma Região
-
-12. Qual é o modelo de computação em nuvem em que os clientes gerenciam seus servidores virtuais e o software instalado neles?
-
-A-Infrastructure as a Service (IaaS)
-
-B-Platform as a Service (PaaS)
-
-C-A-Software as a Service (SaaS)
-
-Resposta: A-Infrastructure as a Service (IaaS)
-
-13. Uma empresa precisa automatizar o provisionamento de infraestrutura na AWS, qual serviço da AWS devem utilizar?
-
-A-AWS Command Line Interface (AWS CLI)
-
-B-Software Development Kits (AWS SDKs)
-
-C-AWS Beanstalk
-
-D-AWS Lightsail
-
-E-AWS CloudFormation
-
-Resposta: E-AWS CloudFormation
-
-14. Uma empresa quer migrar suas aplicações para a nuvem AWS. A empresa quer identificar e priorizar qualquer oportunidade de transformação do negócio e avaliar sua prontidão para a AWS Cloud. Qual serviço da AWS ou ferramenta a empresa deve utilizar para atender a esses requisitos?
-
-A-AWS Well-Architected Tool (AWS WA Tool)
-
-B-AWS Managed Services (MAS)
-
-C-AWS Cloud Adoption Framework (AWS CAF)
-
-D-AWS Migration Hub
-
-E-AWS Database Migration Service (DMS)
-
-Resposta: C-AWS Cloud Adoption Framework (AWS CAF)
-
-Espero que tenham gostado!!
-
-Irei colocar mais quiz!!
-Obrigada por teram participado !!
+---
