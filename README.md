@@ -1,5 +1,7 @@
 # Quiz-AWS_Restart
 
+<img src="social-image_restart_v2.png" alt="Logo Restart" width="500" height="200">
+
 #### Ajudar nos estudos para o simulado e exame da AWS
 
 ##### Preparados??
